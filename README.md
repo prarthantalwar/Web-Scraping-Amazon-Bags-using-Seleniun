@@ -24,7 +24,7 @@ This script utilizes the Selenium library to scrape product information from Ama
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/amazon-product-scraper.git
+git clone https://github.com/prarthantalwar/Web-Scraping-Amazon-Bags-using-Seleniun.git
 
 2. Install the required dependencies:
 
