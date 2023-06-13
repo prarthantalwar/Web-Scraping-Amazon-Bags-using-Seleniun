@@ -40,5 +40,11 @@ python scrape.py
 4. Wait for the scraping process to complete.
 5. The extracted product data will be saved in an Excel file named `Amazon products.xlsx` in the current directory.
 
+## Contributions
 
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
+
+## Contact
+
+For any questions or inquiries, please contact prarthanrohith@gmail.com.
 
